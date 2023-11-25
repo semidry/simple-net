@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "loopback",
+    "netcore"
+, "virtio-net"]
+resolver = "2"
