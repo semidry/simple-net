@@ -6,5 +6,5 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-virtio-drivers = { git = "https://github.com/rcore-os/virtio-drivers",rev = "4b60f5d"}
+virtio-drivers = { git = "https://github.com/rcore-os/virtio-drivers",rev = "de1c3b1"}
 netcore = {path = "../netcore" }
